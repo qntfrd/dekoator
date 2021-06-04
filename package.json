@@ -2,7 +2,7 @@
   "name": "dekoator",
   "version": "0.0.0",
   "description": "Typescript decorators for koa",
-  "main": "dist/index.ts",
+  "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "prepublish": "tsc",
