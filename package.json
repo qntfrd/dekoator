@@ -27,7 +27,7 @@
     "url": "https://github.com/qtfrd/dekoator/issues"
   },
   "devDependencies": {
-    "@types/koa-router": "7.4.2",
+    "@types/koa-router": "7.4.4",
     "@types/mocha": "8.2.2",
     "koa": "2.13.1",
     "koa-bodyparser": "4.3.0",
