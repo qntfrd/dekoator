@@ -30,7 +30,7 @@
     "@types/koa-router": "7.4.2",
     "@types/mocha": "8.2.2",
     "koa": "2.13.1",
-    "koa-bodyparser": "4.3.0",
+    "koa-bodyparser": "4.4.1",
     "koa-router": "10.0.0",
     "mocha": "8.4.0",
     "nyc": "15.1.0",
