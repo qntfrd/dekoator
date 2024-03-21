@@ -29,7 +29,7 @@
   "devDependencies": {
     "@types/koa-router": "7.4.2",
     "@types/mocha": "10.0.6",
-    "koa": "2.13.1",
+    "koa": "2.15.2",
     "koa-bodyparser": "4.3.0",
     "koa-router": "10.0.0",
     "mocha": "10.2.0",
